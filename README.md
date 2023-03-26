@@ -34,3 +34,6 @@
         alt="mayankraj5" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankraj5&theme=tokyonight&langs_count=12&layout=compact" alt="mayankraj5" />
+
+<h3 align="center">Here's a random joke for you</h3>
+<p align="center"><img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /></p>
