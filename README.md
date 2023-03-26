@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/5rajmayank" target="blank"><img src="https://img.shields.io/twitter/follow/5rajmayank?logo=twitter&style=for-the-badge" alt="5rajmayank" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile App Development**
+- 🔭 I’m currently working on **Mobile App Development using Flutter**
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
